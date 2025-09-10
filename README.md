@@ -2,12 +2,14 @@
 
 💻 Full Stack Developer | MERN Stack | Microservices | Cloud & AI-driven Workflows  
 
-I’m a **Full-Stack Engineer with 2+ years of experience** in building scalable web apps, microservices, and cloud-native systems. Passionate about creating impactful products from **0 → 1 → 100** with modern tools, AI integrations, and cloud platforms.  
-
-🔹 Currently working at **5C Network** (Healthcare Tech, Bangalore)  
-🔹 Skilled in **MERN, Next.js, PostgreSQL, AWS, Docker, Microservices**  
-🔹 Hands-on with **AI/LLM automation workflows (OpenAI, Claude, etc.)**  
-
+### 👨‍💻 About Me
+- 🔭 Currently working as **Full Stack Developer (2+ years of experience) @ 5C Network (Healthcare Tech, Bangalore)**
+- 🌱 Skilled in **MERN Stack, Next.js, Microservices, AWS, Docker**
+- 🤖 Hands-on with **AI-driven workflows (OpenAI, Claude, Agent Automation)**
+- 🚀 Passionate about building products from **0 → 1 → 100**
+- 💬 Ask me about **JavaScript | React | Node.js | Cloud | AI Automation**
+- 📫 Reach me at **[p.tamilarasan442@gmail.com](mailto:p.tamilarasan442@gmail.com)**
+  
 ---
 
 ### 🚀 Tech Stack
